@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace Utils
+namespace Utils.LoggerImplementation
 {
     /// <summary>
     /// Used to log a message to a file.

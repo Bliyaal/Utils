@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Utils
+namespace Utils.LoggerImplementation
 {
     /// <summary>
     /// Used to log a message to standard console window.
