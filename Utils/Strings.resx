@@ -129,7 +129,7 @@
   <data name="MenuExit" xml:space="preserve">
     <value>Exit</value>
   </data>
-	<data name="MenuItem" xml:space="preserve">
-    <value>{0}. {1}		{2}</value>
+    <data name="MenuItem" xml:space="preserve">
+    <value>{0}. {1}        {2}</value>
   </data>
 </root>

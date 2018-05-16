@@ -130,6 +130,6 @@
     <value>Sortir</value>
   </data>
   <data name="MenuItem" xml:space="preserve">
-    <value>{0}. {1}		{2}</value>
+    <value>{0}. {1}        {2}</value>
   </data>
 </root>
