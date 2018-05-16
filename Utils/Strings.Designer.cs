@@ -97,7 +97,7 @@ namespace Utils {
         }
         
         /// <summary>
-        ///   Recherche une chaîne localisée semblable à {0}. {1}		{2}.
+        ///   Recherche une chaîne localisée semblable à {0}. {1}        {2}.
         /// </summary>
         internal static string MenuItem {
             get {
