@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace Utils.RestClient
+namespace Utils.RestUtil
 {
     public class RestResult<T>
     {

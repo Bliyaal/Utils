@@ -1,8 +1,8 @@
 ﻿using System.Threading.Tasks;
 
-namespace Utils.RestClient
+namespace Utils.RestUtil
 {
-    public interface IRestClient
+    public interface IRestUtil
     {
         Task<RestResult<T>> Get<T>(string serviceKey,
                                    string route);

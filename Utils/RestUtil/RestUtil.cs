@@ -8,10 +8,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Web;
 
-namespace Utils.RestClient
+namespace Utils.RestUtil
 {
     [ExcludeFromCodeCoverage]
-    public class RestClient : IRestClient
+    public class RestClient : IRestUtil
     {
         private const string MimeType = "application/json";
 
