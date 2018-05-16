@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Utils
+namespace Utils.LoggerImplementation
 {
     /// <summary>
     /// Base class that must be inherited. Provide standard functionalities for all derived classes.

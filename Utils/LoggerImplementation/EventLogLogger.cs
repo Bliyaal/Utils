@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Diagnostics;
 
-namespace Utils
+namespace Utils.LoggerImplementation
 {
     /// <summary>
     /// Used to log a message to Windows Event Log.
