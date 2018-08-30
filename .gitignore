@@ -6,3 +6,10 @@
 /Utils/obj
 /Utils/bin
 /Utils/.vs
+/.vs
+/UtilsCore/obj
+/UtilsCore/bin/Debug/netcoreapp2.1
+/UtilsFull/.vs/Utils/DesignTimeBuild
+/UtilsFull/.vs/Utils/v15/Server/sqlite3
+/UtilsFull/bin/Debug
+/UtilsFull/obj/Debug
