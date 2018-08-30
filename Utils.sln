@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils.csproj", "{A04FEC55-543C-48BC-B4FE-3C77C91472CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "UtilsFull\Utils.csproj", "{A04FEC55-543C-48BC-B4FE-3C77C91472CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilsCore", "..\UtilsCore\UtilsCore.csproj", "{B2BF9C98-470E-4722-9133-1BA5A9C6E771}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilsCore", "UtilsCore\Utils.csproj", "{B2BF9C98-470E-4722-9133-1BA5A9C6E771}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
